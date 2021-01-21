@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/lab5_comp_conc_alev.dir/main.c.o CMakeFiles/lab5_comp_conc_alev.dir/2.c.o CMakeFiles/lab5_comp_conc_alev.dir/3.c.o  -o lab5_comp_conc_alev.exe -Wl,--out-implib,liblab5_comp_conc_alev.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
